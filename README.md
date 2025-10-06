@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emin</h1>
-<h3 align="center">A passionate FullStackDeveloper</h3>
+<h3 align="center">A passionate FullStack Developer</h3>
 
 - 💬 Ask me about **Flutter, .Net, Firebase, SQL etc...**
 
